@@ -1,0 +1,9 @@
+Notes:
+
+Google Scholar
+- truncates result sets to 1,000
+- IP bans your for web scraping (after how many; 500?)
+-- randomize IP address/ user agent?
+- uses a different URL structure for "Cited by" results
+-- https://scholar.google.com/scholar?cites=10244671870114417611&as_sdt=5,45&sciodt=0,45&hl=en
+- limits page results to 20 per page
